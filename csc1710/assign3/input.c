@@ -1,0 +1,4 @@
+TOM 4 2 A 4 B 3 C 4 B
+ALICE 3 4 A 4 B 4 C
+Bob 4 4 A 4 B 2 C 2 B
+Jill 5 4 A 4 B 2 B 4 D 1 C
